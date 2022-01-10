@@ -1,1 +1,57 @@
+h1{
+color: rgb(0, 0, 0);
+}
+#logo{
+    text-align: center;
+    background: black;
+    padding: 1rem;
+    border-radius: 5.5px;
+}
+div{
+    text-align: center;
+}
+.link1,.link2{
 
+    text-decoration: none;
+border: 3px solid black;
+border-radius: 5.5px;
+padding:0.3rem;
+font-size: 19px;
+font-family:Arial, Helvetica, sans-serif;
+background:green;
+color: white;
+display:inline;
+letter-spacing: 1px;
+cursor: pointer;
+}
+
+body{
+    background-image: linear-gradient(red, yellow, green,blue);
+}
+p{
+color:rgb(0, 0, 0);
+font-style: oblique;
+font-size: large;
+
+}
+
+ul{
+color: black;
+font-size: large;
+}
+
+li{
+    color: black;
+    font-size: large;
+}
+
+form{
+    color: rgb(238, 42, 42);
+    font-size: large;
+}
+
+label{
+    color: rgb(43, 226, 98);
+    font-size: large;
+}
+    
